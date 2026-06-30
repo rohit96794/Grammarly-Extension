@@ -1,1 +1,1 @@
-self.GEMINI_API_KEY = "AQ.Ab8RN6I8wdwQyEYNbm1qQ1I1qxi7Z3AaaT3RFVCvotDc3O541w";
+self.GEMINI_API_KEY = "Enter Api Key";
