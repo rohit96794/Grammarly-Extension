@@ -6,7 +6,7 @@ Quick Translator Pro is a lightweight, super-fast Chrome Extension built on Mani
 
 ##  Features
 * **Floating AI Bubble (G Icon):** Appears automatically at the bottom-right corner of any focused text box, input, textarea, or content-editable field (like WhatsApp Web or Gmail).
-* **Keyboard Shortcut Support:** Hit `Ctrl + Shift + Y` (Mac: `Cmd + Shift + Y`) to fetch suggestions instantly.
+* **Keyboard Shortcut Support:** Hit `Ctrl + Shift + Q` (Mac: `Cmd + Shift + Q`) to fetch suggestions instantly.
 * **3 Writing Modes:** Pick the best response type depending on your audience:
   * 💼 **Professional:** Perfect for emails, office chats, and formal documents.
   * ✨ **Casual:** Great for friendly conversations and social media.
